@@ -1,0 +1,66 @@
+.container{
+    margin-bottom: 50px;
+}
+.logo{
+    height: 100px;
+    width: 200px;
+}
+.button{
+    text-decoration: none;
+    background-color:green;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.colored-bg{
+    background-color: #F0FFF0;
+    padding: 20px 40px;
+}
+.banner-word{
+    color: green;
+}
+.banner-img{
+    height: auto;
+    width: 100%;
+    padding: 0 30px 0 5px;
+}
+
+.info-img{
+    height: 200px;
+    width: 80px;
+}
+.info{
+    height: 100%;
+}
+.card-footer{
+    background-color: white;
+    border-style: none;
+}
+.col-md-3 img{
+    width: 80%;
+}
+.head-mid{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+.link-part{
+    background-color: darkslategray;
+    color: white;
+    margin-top: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+}
+.footer-design{
+    text-align: center;
+}
+.copyright{
+    padding-left: 40%;
+    margin-top: 2%;
+}
